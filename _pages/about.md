@@ -10,6 +10,8 @@ I am honored to be advised by **Professor Dezhen Song** — our lab website can 
 My research interests include *robotic tactile perception*, *diffusion policy*, *embodied AI*, *robotic language navigation*, *4D tracking*, and *human video learning*.  
 I am passionate about developing robots that can perceive, understand, and interact intelligently with the physical world.
 
+You can reach me at muxin (dot) zhou (at) mbzuai (dot) ac (dot) ae.
+
 ---
 
 ## 🧪 Publications {#publications}
@@ -49,15 +51,6 @@ A self-supervised dataset distillation framework focused on compact yet informat
 - **Ph.D. in Robotics (2025–2029, expected)** — *Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)*  
 - **M.Sc. in Machine Learning (2023–2025)** — *MBZUAI*  
 - **B.Sc. in Computer Science (2019–2023)** — *Peking University*
-
----
-
-## 📫 Contact {#contact}
-
-- **Email:** [muxin.zhou@mbzuai.ac.ae](mailto:muxin.zhou@mbzuai.ac.ae)  
-- **GitHub:** [github.com/LittleHead0](https://github.com/LittleHead0)  
-- **Google Scholar:** [Google Scholar Profile](#)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muxin-zhou-3b4182297/)
 
 ---
 
