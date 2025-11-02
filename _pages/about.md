@@ -7,7 +7,7 @@ author_profile: true
 I am **Muxin Zhou (周慕歆)**, a first-year Ph.D. student at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), specializing in Robotics.  
 I am honored to be advised by **Professor Dezhen Song** — our lab website can be found [here](https://ix0tuaezs81enc3q4po8va.on.drv.tw/www.networked-robot.online/).
 
-My research interests include *robotic tactile perception**, *diffusion policy*, *embodied AI*, *robotic language navigation*, *4D tracking*, and *human video learning*.  
+My research interests include *robotic tactile perception*, *diffusion policy*, *embodied AI*, *robotic language navigation*, *4D tracking*, and *human video learning*.  
 I am passionate about developing robots that can perceive, understand, and interact intelligently with the physical world.
 
 ---
